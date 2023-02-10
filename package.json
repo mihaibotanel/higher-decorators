@@ -1,7 +1,7 @@
 {
-  "name": "@mihaibotanel/higher-decorators",
+  "name": "higher-decorators",
   "version": "1.1.0",
-  "description": "",
+  "description": "A Node.js library that offers a wide range of functional decorators",
   "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,15 +1,15 @@
-# higher-decorators
+# Higher Decorators
 
-Library that provides several useful decorators for functions, used for different purposes
+Library that offers a wide range of functional decorators for efficient and effective code development.
 
 ## Installation
 
 ```
 # npm
-npm i @mihaibotanel/higher-decorators
+npm i higher-decorators
 
 # yarn
-yarn add @mihaibotanel/higher-decorators
+yarn add higher-decorators
 ```
 
 ## Usage
